@@ -57,7 +57,7 @@
       },
       "rating": "4.5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem. Mauris vel tortor quis mi tempor sagittis. Aenean pretium eleifend est, nec porttitor odio aliquet vel. Morbi semper felis eget volutpat tincidunt. Sed condimentum lectus eget dolor porttitor interdum. Morbi porttitor tincidunt mauris, eget fermentum augue"
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 2,
@@ -116,7 +116,7 @@
       },
       "rating": "4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem. Mauris vel tortor quis mi tempor sagittis. Aenean pretium eleifend est, nec porttitor odio aliquet vel. Morbi semper felis eget volutpat tincidunt. Sed condimentum lectus eget dolor porttitor interdum. Morbi porttitor tincidunt mauris, eget fermentum augue"
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 3,
@@ -171,7 +171,7 @@
       },
       "rating": "3.5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem. Mauris vel tortor quis mi tempor sagittis. Aenean pretium eleifend est, nec porttitor odio aliquet vel. Morbi semper felis eget volutpat tincidunt. Sed condimentum lectus eget dolor porttitor interdum. Morbi porttitor tincidunt mauris, eget fermentum augue"
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 4,
@@ -224,7 +224,7 @@
       },
       "rating": "4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem. Mauris vel tortor quis mi tempor sagittis. Aenean pretium eleifend est, nec porttitor odio aliquet vel. Morbi semper felis eget volutpat tincidunt. Sed condimentum lectus eget dolor porttitor interdum. Morbi porttitor tincidunt mauris, eget fermentum augue"
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 5,
@@ -339,7 +339,7 @@
       },
       "rating": "3.5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem. Mauris vel tortor quis mi tempor sagittis. Aenean pretium eleifend est, nec porttitor odio aliquet vel. Morbi semper felis eget volutpat tincidunt. Sed condimentum lectus eget dolor porttitor interdum. Morbi porttitor tincidunt mauris, eget fermentum augue"
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
 }
