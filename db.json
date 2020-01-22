@@ -172,59 +172,6 @@
       "rating": "3.5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-      "id": 4,
-      "name": "Da Nang University of Foreign Language Studies",
-      "city": "Da Nang",
-      "country": "Viet Nam",
-      "contact": {
-        "address": "54 Nguyen Luong Bang, Lien Chieu District, Da Nang City",
-        "phone": "(+84.0236) 3842308",
-        "email": "tchc.dhbk@dut.udn.vn",
-        "fax": "(+84.0236) 3842771",
-        "website": "https://dut.udn.vn"
-      },
-      "images":[
-        "https://i.ytimg.com/vi/zsZaoo3nEkM/hqdefault.jpg",
-        "http://ufl.udn.vn/theme/Dhnn/img/images/img-contact.jpg",
-        "http://www.standardsinformation.co/wp-content/uploads/2018/11/DHNN-header.jpg"
-      ],
-      "logo": "http://ufl.udn.vn/img/uploads/DHNN/Home/gioithieu/dhnn_logo_2015.png",
-      "faculties": [
-        "International Studies",
-        "English",
-        "English for Specific Purposes",
-        "Russian",
-        "French",
-        "Chinese",
-        "Japanese-Korean-Thai",
-        "Foreign Language Teacher Education"
-      ],
-      "scholarships": [
-        {
-          "name": "Lorem ipsum dolor sit amet",
-          "description": "Ut enim dui, vehicula at justo sit amet",
-          "content": "Aliquam erat volutpat. Maecenas scelerisque, velit quis tempor ornare, nisi libero finibus nibh, sit amet auctor dui nulla eget odio. Vestibulum porta malesuada pulvinar.",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        },
-        {
-          "name": "Nullam nec sodales libero",
-          "description": "Curabitur posuere, dui sed tristique fermentum, elit orci maximus velit",
-          "content": "Nam pulvinar tincidunt lacus, at commodo turpis sodales vel. Curabitur est sapien, commodo pretium nisi quis, ornare pretium felis. Ut sed ante sed dolor venenatis cursus ac sit amet elit. Sed at dolor eu ligula accumsan auctor a eu urna",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        }
-      ],
-      "basicInfo": {
-        "tuition": "5000000-25000000",
-        "dormitoryFee": "6000000",
-        "costOfLiving": "8000000",
-        "internet": "4.5",
-        "employedRate": "90"
-      },
-      "rating": "4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ]
 }
