@@ -1,177 +1,30 @@
 {
-  "universities": [
+  "data": [
     {
-      "id": 1,
-      "name": "Da Nang University of Science And Technology",
-      "city": "Da Nang",
-      "country": "Viet Nam",
-      "contact": {
-        "address": "54 Nguyen Luong Bang, Lien Chieu District, Da Nang City",
-        "phone": "(+84.0236) 3842308",
-        "email": "tchc.dhbk@dut.udn.vn",
-        "fax": "(+84.0236) 3842771",
-        "website": "https://dut.udn.vn"
+      "slug": "massachusetts-institute-of-technology",
+      "name": "Massachusetts Institute of Technology",
+      "address": "77 Massachusetts Avenue
+Cambridge, MA 02139",
+      "tuition": "53,790",
+      "ranking": {
+          "rank": 1,
+          "type": "National Universities",
+          "full_name": "#1 in National Universities"
       },
-      "images":[
-        "http://dut.udn.vn/Files/admin/images/Tin_tuc/Daotao/2017/HCERES/image002.png",
-        "https://www.baodanang.vn/dataimages/201809/original/images1469863_DHBK_nhathongminh97853100PM.JPG",
-        "https://cokhitudong1.jweb.vn/uploads/cokhitudong1/images/maxresdefault_1.jpg"
-      ],
-      "logo": "https://i1.rgstatic.net/ii/institution.image/AS%3A267479517990912%401440783494494_l",
-      "faculties": [
-        "Architecture",
-        "Chemical Engineering",
-        "Civil Engineering",
-        "Electrical Engineering",
-        "Electronics and Telecommunication Engineering",
-        "Environmental Engineering",
-        "Information Technology",
-        "Mechanical Engineering",
-        "Project Management",
-        "Road and Bridge Engineering",
-        "Technical Education",
-        "Thermal and Refrigeration Engineering",
-        "Transportation Mechanical Engineering",
-        "Water Resource Engineering"
-      ],
-      "scholarships": [
-        {
-          "name": "Lorem ipsum dolor sit amet",
-          "description": "Ut enim dui, vehicula at justo sit amet",
-          "content": "Aliquam erat volutpat. Maecenas scelerisque, velit quis tempor ornare, nisi libero finibus nibh, sit amet auctor dui nulla eget odio. Vestibulum porta malesuada pulvinar.",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        },
-        {
-          "name": "Nullam nec sodales libero",
-          "description": "Curabitur posuere, dui sed tristique fermentum, elit orci maximus velit",
-          "content": "Nam pulvinar tincidunt lacus, at commodo turpis sodales vel. Curabitur est sapien, commodo pretium nisi quis, ornare pretium felis. Ut sed ante sed dolor venenatis cursus ac sit amet elit. Sed at dolor eu ligula accumsan auctor a eu urna",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        }
-      ],
-      "basicInfo": {
-        "tuition": "7000000-30000000",
-        "dormitoryFee": "5000000",
-        "costOfLiving": "10000000",
-        "internet": "4",
-        "employedRate": "90"
+      "score_range": {
+          "sat": "1490-1570",
+          "act": "33-35"
       },
-      "rating": "4.5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      "score_rating": {
+          "overall": 10,
+          "location": 10,
+          "safety": 10,
+          "academics": 10,
+          "campus: 9
+      },
+      "description": "MIT is an elite private college located in Cambridge ...",
+      "background_url": "https://d13b2ieg84qqce.cloudfront.net/3dbd39d4c1401beb7773c38566cc4d728d7db4ed.jpg",
+      "created_at": "2020-01-08T03:58:31.139Z"
     },
-    {
-      "id": 2,
-      "name": "Da Nang University of Economics",
-      "city": "Da Nang",
-      "country": "Viet Nam",
-      "contact": {
-        "address": "71 Ngu Hanh Son, Danang City",
-        "phone": "+84-236-395-8635",
-        "email": "interrelations@due.edu.vn",
-        "fax": "(+84.0236) 3842771",
-        "website": "https://due.udn.vn/"
-      },
-      "images":[
-        "https://www.easyuni.vn/media/institution/photo/2016/06/09/%C4%91h_kinh_t%E1%BA%BF_%C4%91%C3%A0_n%E1%BA%B5ng.jpg.600x400_q85.jpg",
-        "http://www.mekongskills2work.org/sites/default/files/mekong/mlc/2016-09/danang3.jpg",
-        "http://www.mekongskills2work.org/sites/default/files/mekong/mlc/2016-09/xdanang1.jpg.pagespeed.ic.mhCic5IhQc.jpg",
-        "http://due.udn.vn/Portals/0/Editor/TinTuc_SuKien/Image_Baiviet/Hoi%20thao%20giao%20duc%20quoc%20te/IMG_1568.JPG"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Kinh_t%E1%BA%BF_%C4%90%C3%A0_N%E1%BA%B5ng.jpg",
-      "faculties": [
-        "Accounting",
-        "Business Administration",
-        "Banking",
-        "E-Commerce",
-        "Economics",
-        "Finance",
-        "International Business",
-        "Law",
-        "Marketing",
-        "Political Economy",
-        "Political Science",
-        "Statistic And Informatics",
-        "Tourism"
-      ],
-      "scholarships": [
-        {
-          "name": "Lorem ipsum dolor sit amet",
-          "description": "Ut enim dui, vehicula at justo sit amet",
-          "content": "Aliquam erat volutpat. Maecenas scelerisque, velit quis tempor ornare, nisi libero finibus nibh, sit amet auctor dui nulla eget odio. Vestibulum porta malesuada pulvinar.",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        },
-        {
-          "name": "Nullam nec sodales libero",
-          "description": "Curabitur posuere, dui sed tristique fermentum, elit orci maximus velit",
-          "content": "Nam pulvinar tincidunt lacus, at commodo turpis sodales vel. Curabitur est sapien, commodo pretium nisi quis, ornare pretium felis. Ut sed ante sed dolor venenatis cursus ac sit amet elit. Sed at dolor eu ligula accumsan auctor a eu urna",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        }
-      ],
-      "basicInfo": {
-        "tuition": "7000000-30000000",
-        "dormitoryFee": "5000000",
-        "costOfLiving": "10000000",
-        "internet": "4",
-        "employedRate": "90"
-      },
-      "rating": "4",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-      "id": 3,
-      "name": "Da Nang University of Education",
-      "city": "Da Nang",
-      "country": "Viet Nam",
-      "contact": {
-        "address": "459 Ton Duc Thang Street-Lien Chieu District – Da Nang City ",
-        "phone": "(84) – 236 3841 323",
-        "email": "ued@ued.udn.vn",
-        "fax": "(84) – 236 – 3842 953",
-        "website": "https://ued.udn.vn "
-      },
-      "images":[
-        "http://danangtoday.com.vn/dataimages/201604/original/images1241141_dhsuphamdanang.jpg",
-        "http://thiquocgia.vn/uploads/1/news/summary/451/1.jpg",
-        "https://img.giaoduc.net.vn/w1050/Uploaded/2020/zgtzgo/2018_08_15/suphamdanang.jpg"
-      ],
-      "logo": "https://upload.wikimedia.org/wikipedia/vi/4/4e/Dai_hoc_Su_pham_Da_Nang.PNG",
-      "faculties": [
-        "Literature",
-        "Biology and Environment",
-        "Information Technology",
-        "Mathematics",
-        "Physics",
-        "Geography",
-        "Politic Education",
-        "Preschool Education",
-        "Primary Education",
-        "Psychology"
-      ],
-      "scholarships": [
-        {
-          "name": "Lorem ipsum dolor sit amet",
-          "description": "Ut enim dui, vehicula at justo sit amet",
-          "content": "Aliquam erat volutpat. Maecenas scelerisque, velit quis tempor ornare, nisi libero finibus nibh, sit amet auctor dui nulla eget odio. Vestibulum porta malesuada pulvinar.",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        },
-        {
-          "name": "Nullam nec sodales libero",
-          "description": "Curabitur posuere, dui sed tristique fermentum, elit orci maximus velit",
-          "content": "Nam pulvinar tincidunt lacus, at commodo turpis sodales vel. Curabitur est sapien, commodo pretium nisi quis, ornare pretium felis. Ut sed ante sed dolor venenatis cursus ac sit amet elit. Sed at dolor eu ligula accumsan auctor a eu urna",
-          "url": "http://ctsv.dut.udn.vn:8081/HocBong"
-        }
-      ],
-      "basicInfo": {
-        "tuition": "0-20000000",
-        "dormitoryFee": "2000000",
-        "costOfLiving": "7000000",
-        "internet": "3",
-        "employedRate": "90"
-      },
-      "rating": "3.5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at felis mollis, varius ante eget, sodales ante. Sed nunc enim, gravida quis eros eu, porta euismod lorem.",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    }
   ]
 }
