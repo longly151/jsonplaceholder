@@ -9,7 +9,7 @@
         "ranking": {
             "rank": 1,
             "type": "National Universities",
-            "fullname": "#1 in National Universities"
+            "fullName": "#1 in National Universities"
         },
         "score_range": {
             "sat": "1490-1570",
@@ -38,7 +38,7 @@
         "ranking": {
             "rank": 1,
             "type": "National Universities",
-            "fullname": "#1 in National Universities"
+            "fullName": "#1 in National Universities"
         },
         "score_range": {
             "sat": "1490-1570",
