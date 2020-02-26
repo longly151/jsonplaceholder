@@ -27,6 +27,7 @@
         "city": "Cambridge",
         "state": "Massachusetts",
         "country": "USA",
+        "logo":"https://i.pinimg.com/474x/4a/21/25/4a2125ea3d703bee63e98de2913ba2ad--vector-free-classroom-decor.jpg",
         "created_at": "2020-01-08T03:58:31.139Z"
       },
       {
@@ -53,6 +54,7 @@
         "city": "Cambridge",
         "state": "Massachusetts",
         "country": "USA",
+        "logo":"https://i.pinimg.com/474x/4a/21/25/4a2125ea3d703bee63e98de2913ba2ad--vector-free-classroom-decor.jpg",
         "description": "MIT is an elite private college located in Cambridge ...",
         "background_url": "https://d13b2ieg84qqce.cloudfront.net/3dbd39d4c1401beb7773c38566cc4d728d7db4ed.jpg",
         "created_at": "2020-01-08T03:58:31.139Z"
