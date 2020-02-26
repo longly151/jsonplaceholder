@@ -3,8 +3,7 @@
     {
       "slug": "massachusetts-institute-of-technology",
       "name": "Massachusetts Institute of Technology",
-      "address": "77 Massachusetts Avenue
-Cambridge, MA 02139",
+      "address": "77 Massachusetts Avenue Cambridge, MA 02139",
       "tuition": "53,790",
       "ranking": {
           "rank": 1,
@@ -20,7 +19,7 @@ Cambridge, MA 02139",
           "location": 10,
           "safety": 10,
           "academics": 10,
-          "campus: 9
+          "campus": 9
       },
       "description": "MIT is an elite private college located in Cambridge ...",
       "background_url": "https://d13b2ieg84qqce.cloudfront.net/3dbd39d4c1401beb7773c38566cc4d728d7db4ed.jpg",
