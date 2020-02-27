@@ -2,6 +2,7 @@
   "universities": {
     "data": [
       {
+        "id": 1,
         "slug": "massachusetts-institute-of-technology",
         "name": "Massachusetts Institute of Technology",
         "address": "77 Massachusetts Avenue Cambridge, MA 02139",
@@ -31,6 +32,7 @@
         "createdAt": "2020-01-08T03:58:31.139Z"
       },
       {
+        "id": 2,
         "slug": "massachusetts-institute-of-technology",
         "name": "Massachusetts Institute of Technology",
         "address": "77 Massachusetts Avenue Cambridge, MA 02139",
