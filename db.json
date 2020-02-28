@@ -90,41 +90,11 @@
         "description": "MIT is an elite private college located in Cambridge ...",
         "backgroundUrl": "https://d13b2ieg84qqce.cloudfront.net/3dbd39d4c1401beb7773c38566cc4d728d7db4ed.jpg",
         "createdAt": "2020-01-08T03:58:31.139Z"
-      },
-      {
-        "id": 4,
-        "slug": "massachusetts-institute-of-technology",
-        "name": "Massachusetts Institute of Technology",
-        "address": "77 Massachusetts Avenue Cambridge, MA 02139",
-        "tuition": "53,790",
-        "ranking": {
-            "rank": 1,
-            "type": "National Universities",
-            "fullName": "#1 in National Universities"
-        },
-        "scoreRange": {
-            "sat": "1490-1570",
-            "act": "33-35"
-        },
-        "scoreRating": {
-            "overall": 10,
-            "location": 10,
-            "safety": 10,
-            "academics": 10,
-            "campus": 9
-        },
-        "city": "Cambridge",
-        "state": "Massachusetts",
-        "country": "USA",
-        "logo":"https://i.pinimg.com/474x/4a/21/25/4a2125ea3d703bee63e98de2913ba2ad--vector-free-classroom-decor.jpg",
-        "description": "MIT is an elite private college located in Cambridge ...",
-        "backgroundUrl": "https://d13b2ieg84qqce.cloudfront.net/3dbd39d4c1401beb7773c38566cc4d728d7db4ed.jpg",
-        "createdAt": "2020-01-08T03:58:31.139Z"
       }
     ],
     "count": 3,
-    "total": 4,
+    "total": 3,
     "page": 1,
-    "pageCount": 2
+    "pageCount": 1
   }
 }
