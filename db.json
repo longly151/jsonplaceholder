@@ -165,6 +165,39 @@
           "campus_food": 9,
           "safety": 7
         }
+      },
+      {
+        "id": "6",
+        "slug": "kansas-state-university",
+        "name": "Kansas State University",
+        "address": "Address\n919 Mid-Campus Drive, Anderson Hall\nManhattan, KS 66506",
+        "ranking": {
+          "rank": null,
+          "type": null,
+          "full_name": null
+        },
+        "score_range": {
+          "sat": "—",
+          "act": "—"
+        },
+        "description": "Kansas State is a highly rated public university located in Manhattan, Kansas. It is a large institution with an enrollment of 16,770 undergraduate students. The Kansas State acceptance rate is 94%. Popular majors include Animal Sciences and Husbandry, Human Development, and Business. Graduating 63% of students, Kansas State alumni go on to earn a starting salary of $38,400.",
+        "created_at": "2020-02-29T12:32:59.297Z",
+        "background_url": null,
+        "score_rating": {
+          "overall": 8,
+          "academic": 7,
+          "diversity": 8,
+          "athletic": 9,
+          "professor": 9,
+          "dorm": 7,
+          "student_life": 10,
+          "value": 8,
+          "campus": 10,
+          "party_scene": 10,
+          "location": 8,
+          "campus_food": 9,
+          "safety": 7
+        }
       }
     ],
     "meta": {
@@ -172,7 +205,7 @@
       "next_page": 3,
       "prev_page": 1,
       "total_pages": 100,
-      "total_count": 500
+      "total_count": 400
     }
   }
 }
