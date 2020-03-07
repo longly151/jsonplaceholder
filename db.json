@@ -101,39 +101,6 @@
         }
       },
       {
-        "id": "4",
-        "slug": "adelphi-university",
-        "name": "Adelphi University",
-        "address": "Address\nSouth Ave\nGarden City, NY 11530",
-        "ranking": {
-          "rank": null,
-          "type": null,
-          "full_name": null
-        },
-        "score_range": {
-          "sat": "1060-1240",
-          "act": "22-27"
-        },
-        "description": "None",
-        "created_at": "2020-02-29T12:32:59.288Z",
-        "background_url": null,
-        "score_rating": {
-          "overall": 7,
-          "academic": 6,
-          "diversity": 9,
-          "athletic": 6,
-          "professor": 6,
-          "dorm": 4,
-          "student_life": 7,
-          "value": 8,
-          "campus": 7,
-          "party_scene": 5,
-          "location": 8,
-          "campus_food": 4,
-          "safety": 8
-        }
-      },
-      {
         "id": "5",
         "slug": "kansas-state-university",
         "name": "Kansas State University",
